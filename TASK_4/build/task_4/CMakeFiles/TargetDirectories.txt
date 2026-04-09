@@ -1,9 +1,0 @@
-/robots_HW/TASK_4/build/task_4/CMakeFiles/uninstall.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/task_4_uninstall.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/test.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/edit_cache.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/rebuild_cache.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/list_install_components.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/install.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/install/local.dir
-/robots_HW/TASK_4/build/task_4/CMakeFiles/install/strip.dir
