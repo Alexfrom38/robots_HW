@@ -1,0 +1,6 @@
+Invoking command in '/robots_HW/TASK_4/build/task_4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /robots_HW/TASK_4/my_robot_pkg -DCMAKE_INSTALL_PREFIX=/robots_HW/TASK_4/install/task_4
+Invoked command in '/robots_HW/TASK_4/build/task_4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /robots_HW/TASK_4/my_robot_pkg -DCMAKE_INSTALL_PREFIX=/robots_HW/TASK_4/install/task_4
+Invoking command in '/robots_HW/TASK_4/build/task_4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_4/build/task_4 -- -j12 -l12
+Invoked command in '/robots_HW/TASK_4/build/task_4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_4/build/task_4 -- -j12 -l12
+Invoking command in '/robots_HW/TASK_4/build/task_4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_4/build/task_4
+Invoked command in '/robots_HW/TASK_4/build/task_4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_4/build/task_4
