@@ -1,0 +1,51 @@
+[0.032s] Invoking command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /robots_HW/TASK_7/gazebo_controller_pkg -DCMAKE_INSTALL_PREFIX=/robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg
+[0.285s] -- The C compiler identification is GNU 13.3.0
+[0.458s] -- The CXX compiler identification is GNU 13.3.0
+[0.496s] -- Detecting C compiler ABI info
+[0.770s] -- Detecting C compiler ABI info - done
+[0.798s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.805s] -- Detecting C compile features
+[0.809s] -- Detecting C compile features - done
+[0.854s] -- Detecting CXX compiler ABI info
+[1.135s] -- Detecting CXX compiler ABI info - done
+[1.147s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.148s] -- Detecting CXX compile features
+[1.149s] -- Detecting CXX compile features - done
+[1.159s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.458s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.804s] -- Found rclpy: 7.1.9 (/opt/ros/jazzy/share/rclpy/cmake)
+[1.819s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[2.012s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.080s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.121s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.200s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.464s] -- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[2.712s] -- Configuring done (2.6s)
+[2.727s] -- Generating done (0.0s)
+[2.731s] -- Build files have been written to: /robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg
+[2.736s] Invoked command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /robots_HW/TASK_7/gazebo_controller_pkg -DCMAKE_INSTALL_PREFIX=/robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg
+[2.741s] Invoking command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg -- -j12 -l12
+[2.825s] Invoked command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg -- -j12 -l12
+[2.841s] Invoking command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg
+[2.859s] -- Install configuration: ""
+[2.859s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/teleop_node.py
+[2.859s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/odom_listener.py
+[2.859s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/scan_analyzer.py
+[2.860s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/obstacle_avoidance.py
+[2.860s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/wall_follower.py
+[2.862s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/ament_index/resource_index/package_run_dependencies/gazebo_controller_pkg
+[2.863s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/ament_index/resource_index/parent_prefix_path/gazebo_controller_pkg
+[2.864s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.sh
+[2.864s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.dsv
+[2.865s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.sh
+[2.865s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.dsv
+[2.866s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.bash
+[2.866s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.sh
+[2.867s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.zsh
+[2.867s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.dsv
+[2.868s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.dsv
+[2.869s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/ament_index/resource_index/packages/gazebo_controller_pkg
+[2.870s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig.cmake
+[2.870s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig-version.cmake
+[2.870s] -- Installing: /robots_HW/TASK_7/gazebo_controller_pkg/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.xml
+[2.873s] Invoked command in '/robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_7/gazebo_controller_pkg/build/gazebo_controller_pkg

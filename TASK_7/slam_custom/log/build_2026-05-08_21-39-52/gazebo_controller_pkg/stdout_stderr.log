@@ -1,0 +1,41 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclpy: 7.1.9 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+-- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+-- Configuring done (2.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg
+-- Install configuration: ""
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/slam_custom.py
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/package_run_dependencies/gazebo_controller_pkg
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/parent_prefix_path/gazebo_controller_pkg
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.sh
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.dsv
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.sh
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.dsv
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.bash
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.sh
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.zsh
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.dsv
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.dsv
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/packages/gazebo_controller_pkg
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig.cmake
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig-version.cmake
+-- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.xml

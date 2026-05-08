@@ -1,0 +1,32 @@
+[0.034s] Invoking command in '/robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg -- -j12 -l12
+[0.466s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.212s] -- Found rclpy: 7.1.9 (/opt/ros/jazzy/share/rclpy/cmake)
+[1.228s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.482s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.538s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.612s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.731s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.091s] -- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[2.514s] -- Configuring done (2.2s)
+[2.557s] -- Generating done (0.0s)
+[2.562s] -- Build files have been written to: /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg
+[2.639s] Invoked command in '/robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg -- -j12 -l12
+[2.670s] Invoking command in '/robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg
+[2.686s] -- Install configuration: ""
+[2.686s] -- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/slam_custom.py
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/package_run_dependencies/gazebo_controller_pkg
+[2.689s] -- Installing: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/parent_prefix_path/gazebo_controller_pkg
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.sh
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.dsv
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.sh
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.dsv
+[2.689s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.bash
+[2.690s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.sh
+[2.690s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.zsh
+[2.690s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.dsv
+[2.691s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.dsv
+[2.691s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/packages/gazebo_controller_pkg
+[2.692s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig.cmake
+[2.692s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig-version.cmake
+[2.692s] -- Up-to-date: /robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.xml
+[2.693s] Invoked command in '/robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /robots_HW/TASK_7/slam_custom/build/gazebo_controller_pkg

@@ -1,0 +1,16 @@
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/lib/gazebo_controller_pkg/slam_custom.py
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/package_run_dependencies/gazebo_controller_pkg
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/parent_prefix_path/gazebo_controller_pkg
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.sh
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/ament_prefix_path.dsv
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.sh
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/environment/path.dsv
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.bash
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.sh
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.zsh
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/local_setup.dsv
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.dsv
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/ament_index/resource_index/packages/gazebo_controller_pkg
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig.cmake
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/cmake/gazebo_controller_pkgConfig-version.cmake
+/robots_HW/TASK_7/slam_custom/install/gazebo_controller_pkg/share/gazebo_controller_pkg/package.xml
